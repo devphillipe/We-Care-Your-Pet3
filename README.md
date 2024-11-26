@@ -6,9 +6,10 @@ Uma página dedicada aos cuidados com seu pet, oferecendo informações e servi�
 
 ## 🔖 Índice
 
-- [Sobre o projeto](#-sobre-o-projeto)
-- [Tecnologias utilizadas](#-tecnologias-utilizadas)
+- [Sobre o projeto](#sobre-o-projeto)
+- [Tecnologias utilizadas](#tecnologias-utilizadas)
 - [Como executar o projeto](#como-executar-o-projeto)
+
 ---
 
 ## 📜 Sobre o projeto
@@ -26,22 +27,19 @@ As seguintes ferramentas foram usadas na construção do projeto:
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
 </div>
 
-
 ---
 
 ## 🛠️ Como executar o projeto
 
 ### Pré-requisitos
 
-Para visualizar o projeto, você precisa de um navegador web.
+Para visualizar o projeto, você precisa de:
 
-### Passos
+- Um navegador web
+- [Git](https://git-scm.com/) instalado na sua máquina
+
+### Passos para clonar e executar
 
 1. Clone este repositório:
    ```bash
    git clone https://github.com/devphillipe/We-Care-Your-Pet3.git
-2. Acesse a pasta do projeto:
-   ```bash
-   cd We-Care-Your-Pet3
-2. Abra o arquivo index.html no navegador:
-  * Se preferir, você pode usar uma extensão como Live Server no VSCode para rodar o projeto localmente.
