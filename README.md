@@ -6,10 +6,9 @@ Uma página dedicada aos cuidados com seu pet, oferecendo informações e servi�
 
 ## 🔖 Índice
 
-- [Sobre o projeto](#sobre-o-projeto)
-- [Tecnologias utilizadas](#tecnologias-utilizadas)
-- [Como executar o projeto](#como-executar-o-projeto)
-
+- [Sobre o projeto](#-sobre-o-projeto)
+- [Tecnologias utilizadas](#-tecnologias-utilizadas)
+- [Como executar o projeto](#-como-executar-o-projeto)
 ---
 
 ## 📜 Sobre o projeto
