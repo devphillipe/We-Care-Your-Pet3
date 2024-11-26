@@ -2,16 +2,6 @@
 
 Uma página dedicada aos cuidados com seu pet, oferecendo informações e serviços para garantir o bem-estar dos animais.
 
----
-
-## 🔖 Índice
-
-- [Sobre o projeto](#sobre-o-projeto)
-- [Tecnologias utilizadas](#tecnologias-utilizadas)
-- [Como executar o projeto](#como-executar-o-projeto)
-
----
-
 ## 📜 Sobre o projeto
 
 O **We Care Your Pet** é um projeto web que tem como objetivo fornecer uma experiência interativa e visualmente atraente para donos de pets. Ele combina um design responsivo com funcionalidades úteis para a comunidade pet lover.
