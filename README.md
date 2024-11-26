@@ -8,7 +8,7 @@ Uma página dedicada aos cuidados com seu pet, oferecendo informações e servi�
 
 - [Sobre o projeto](#-sobre-o-projeto)
 - [Tecnologias utilizadas](#-tecnologias-utilizadas)
-- [Como executar o projeto](#-como-executar-o-projeto)
+- [Como executar o projeto](#como-executar-o-projeto)
 ---
 
 ## 📜 Sobre o projeto
