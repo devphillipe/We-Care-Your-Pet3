@@ -35,6 +35,6 @@ Para visualizar o projeto, você precisa de:
    git clone https://github.com/devphillipe/We-Care-Your-Pet3.git
 
    ## Link do Projeto Finalizado
-[Projeto Finalizado](https://pagina-receita-rocketseat.vercel.app/)
+[Projeto Finalizado](https://we-care-your-pet3.vercel.app/)
 > **Dica:** Para abrir o link em uma nova guia, clique com o botão direito e selecione "Abrir link em uma nova guia" ou pressione `Ctrl` (ou `Cmd` no Mac) ao clicar.
 
